@@ -3,5 +3,9 @@
     "symbol": "GAY",
     "description": "The hunt has begun. Take the right position!",
     "image": "https://github.com/ass-traher/ass-traher/blob/main/gay-logo-anim.gif?raw=true",
-    "external_url": "https://gaytest.vip/"
+    "extensions":{
+        "website":"https://gaytest.vip/",
+        "twitter":"https://twitter.com/solanagays",
+        "telegram":"https://t.me/solanagay",
+    }
 }
